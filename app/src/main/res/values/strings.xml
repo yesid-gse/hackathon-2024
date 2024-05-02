@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProyectQrHackaton</string>
+    <string name="title_btn_scanner">Activar Scanner</string>
+</resources>
